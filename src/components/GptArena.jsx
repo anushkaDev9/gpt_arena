@@ -71,7 +71,7 @@ const GptArena = () => {
           </div>
   </div>
         
-     <div className='container'>
+    <div className='container'>
           <h2>GPT 4</h2>
           <div className="markdown-content">
             <ReactMarkdown>{outputGpt.model2}</ReactMarkdown>
